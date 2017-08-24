@@ -1,0 +1,81 @@
+en:
+
+  menu:
+    main: "Main"
+    profile: "Profile"
+    logout: "Logout"
+
+  signin:
+    title: "Sign In"
+    description:
+      text: "If you don't have an account,"
+      link: "create one"
+    form:
+      password: "Password"
+      forgot: "Forgot password?"
+      button: "Sign in"
+      remember: "Remember me"
+
+  profile:
+    title: "My Profile"
+
+  change_pass:
+    title: "Change your password"
+    form:
+      new_pass: "New password"
+      confirm_pass: "Confirm new password"
+      button: "Change my Password"
+
+  reset_pass:
+    title: "Forgot your password?"
+    description: "We'll send password reset instructions."
+    form:
+      button: "Reset Password"
+
+  signup:
+    title: "Sign Up"
+    form:
+      name: "Name"
+      password: "Password"
+      confirm_pass: "Password confirmation"
+      button: "Sign Up"
+
+  transaction:
+    title: "Your token withdrawal requests"
+    no_transactions: "You don't have transactions!"
+    list:
+      ammount: "Ammount"
+      request_date: "Request date"
+      confirmed: "Confirmed?"
+      date: "Confirmation date"
+      address: "Transaction address"
+      link: "Link"
+    isConfirmed:
+      confirmed: "YES"
+      not_confirmed: "NO"
+    link: "Link"
+    back: "Return to Profile"
+
+  profile_main:
+    main_text1: "We've created a wallet for you, so you can use it for manual payments."
+    main_text2: "It is a real Ethereum wallet and if you want to make a real cash donation,"
+    main_text3: "you'll receive your funds on this wallet:"
+    eth_wallet:
+      title: "Your own ethereum wallet:"
+      description1: "To withdraw your funds you need to "
+      description2: "tell us your Ethereum address"
+    btc_wallet:
+      title: "Address for investment in BTC"
+      description1: "All funds transferred to that address will be converted to BCO tokens, the balance of which you can observe in the previous block on this page."
+
+  application:
+    popup:
+      title: "Leave a request to donate Pre-ICO"
+      button: "Send"
+    footer:
+      title: "Social media:"
+      description: "Our token meets the ERC20 standart"
+      contacts:
+        title: "Contacts:"
+
+
