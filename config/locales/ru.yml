@@ -1,0 +1,79 @@
+ru:
+
+  menu:
+    main: "Главная"
+    profile: "Кабинет"
+    logout: "Выйти"
+
+  signin:
+    title: "Войти"
+    description:
+      text: "Если у вас нет аккаунта,"
+      link: "зарегистрируйте его"
+    form:
+      password: "Пароль"
+      forgot: "Забыли пароль?"
+      button: "Войти"
+      remember: "Запомнить меня"
+
+  profile:
+    title: "Личный кабинет"
+
+  change_pass:
+    title: "Изменение пароля"
+    form:
+      new_pass: "Новый пароль"
+      confirm_pass: "Подтвердите новый пароль"
+      button: "Изменить мой пароль"
+
+  reset_pass:
+    title: "Забыли пароль?"
+    description: "Мы отправим вам инструкции по сбросу пароля."
+    form:
+      button: "Сбросить Пароль"
+
+  signup:
+    title: "Зарегистрироваться"
+    form:
+      name: "Имя"
+      password: "Пароль"
+      confirm_pass: "Подтвердите пароль"
+      button: "Зарегистрироваться"
+
+  transaction:
+    title: "Ваши запросы по выводу токенов"
+    no_transactions: "У вас нет транзакций!"
+    list:
+      ammount: "Количество"
+      request_date: "Дата запроса"
+      confirmed: "Подтверждена?"
+      date: "Дата подтверждения"
+      address: "Адрес транзакции"
+      link: "Ссылка"
+    isConfirmed:
+      confirmed: "Да"
+      not_confirmed: "Нет"
+    link: "Ссылка"
+    back: "Вернуться к Профилю"
+
+  profile_main:
+    main_text1: "Мы создали для вас кошелек, чтобы вы могли совершать различные транзакции."
+    main_text2: "Это реальный Ethereum кошелек, и если вы принимаете участие в ICO, покупая токены напрямую у команды SandCoin,"
+    main_text3: "вы увидете свои средства на этом кошельке:"
+    eth_wallet:
+      title: "Ваш Ethereum кошелек:"
+      description1: "Чтобы вывести свои средства, вам надо "
+      description2: "предоставить нам ваш Ethereum адрес"
+    btc_wallet:
+      title: "Адрес для инвестиций в BTC"
+      description1: "Все переведенные средства на тот кошелек будут переконвертированы в BCO токены, баланс которых вы можете наблюдать в предыдущем блоке на этой странице."
+
+  application:
+    popup:
+      title: "Оставить заявку на инвестирование в Pre-ICO"
+      button: "Отправить"
+    footer:
+      title: "Мы в социальных сетях:"
+      description: "Наш токен отвечает стандарту ERC20"
+      contacts:
+        title: "Контакты:"
